@@ -1,3 +1,5 @@
+![design-system-os](banner.png)
+
 # Design System OS
 
 **A method for building an advanced, agent-ready design system — one that humans can design with and AI coding agents can build from without drifting.**
